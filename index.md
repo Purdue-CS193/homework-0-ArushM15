@@ -1,3 +1,9 @@
+# Arush Medam's First CS193 Homework
+
+- CS193 allows me to practice using Terminal, something I haven't used often.
+- CS193 allows me to ask questions to TA's who took the same classes I am going to take.
+- CS193 is only a one-credit class so there isn't a lot of work.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
